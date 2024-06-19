@@ -8,7 +8,6 @@
      <li>👀 I’m interested in Creating Art.</li>
      <li>🌱 I’m currently learning Web Development/ HTML and CSS.</li>
      <li>📫 How to reach me? You can Contact me here on GitHub.</li>
-     <li>⚡ Fun fact: I Like Marvel.</li>
   </ul>
 </div>
 
